@@ -13,6 +13,7 @@ public class Main {
         System.out.println("Hello World.");
         System.out.println("Hello again.");
         System.out.println("Huhu");
+        System.out.println("Github integration works.");
     }
 
 }
