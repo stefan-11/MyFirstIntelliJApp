@@ -7,6 +7,7 @@ public class Main {
         Main myMain = new Main();
 
         myMain.sayHello();
+
     }
 
     public void sayHello(){
